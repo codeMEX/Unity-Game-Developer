@@ -1,0 +1,5 @@
+Hello Trainer! Welcome! Let's start your adventure!
+
+What would you like to do first?
+1. Go to backyard (could catch your first pokemon!)
+2. Go outside! Let's start the adventure!
